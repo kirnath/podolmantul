@@ -1,2 +1,0 @@
-# podolmantul
-Created with CodeSandbox
